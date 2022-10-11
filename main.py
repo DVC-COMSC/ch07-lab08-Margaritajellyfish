@@ -13,4 +13,6 @@ for i in range(5):
     if a < numbers[i]:
         numbers.insert(i, a)
         break
+if len(numbers) = 5:
+    numbers.insert(5, a)
 print(numbers)
